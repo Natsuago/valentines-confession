@@ -25,7 +25,7 @@
 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/valentines-confession.git
+git clone git@github.com:Natsuago/valentines-confession.git
 cd valentines-confession
 ```
 
